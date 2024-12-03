@@ -16,7 +16,7 @@ The ACORNS program allows language instructors and students to easily prepare an
 * Questions and Answers lessons pose questions to the student, who replies with an answer. If the answer is correct, the student hears a positive feedback.
 * Story Book lessons play a story and display a picture that relates. Students listen along as the translation words are highlighted. Many other types of lessons are in our plans.
 * Translate lessons plays an audio in either the gloss or indigenous language. It also displays the sentence with the words scrambled. The student's job is to use touches or mouse clicks to construct the correct sentence and ignore spurious words that also display. If correct the next sentence is displayed pertaining to the same category (like travel, activities, shopping, etc.). When completing a category, the student can move to the next. This lesson supports sub-word morphology so the student can become familiar with word endings and changes as phrases are combined.
-* 
+ 
 Language instructors can use ACORNS to easily create and then exectute these lessons. Student can also create language lessons as part of class projects. ACORNS can also generate web pages that execute with browsers on the popular desktop, laptop, tablet, and phone devices. It is possible to create an on-line library of language lessons. ACORNS supports indigenous unicode fonts and specialized ttf fonts that remap the Keyboard to native language needs.
 
 To access more information, please refer the [acorns linguistics](https://acornslinguistics.com/) website. This has been a long term development project involving both undergraduate and graduate students.
