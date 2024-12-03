@@ -1,0 +1,22 @@
+# ACORNS Overview
+
+The purpose of this package is to support language revitalization efforts of Native American tribes. Hence, its name [AC]quisition [O]f [R]estored [N]ative [S]peech. The software conforms to best practice criteria for working with linguistic data, in that it supports industry standard export and import facilities.
+
+The ACORNS program allows language instructors and students to easily prepare and execute files containing language lessons. The software is intuitive and requires minimal technical training. Each file contains a series of lessons that link together through use of mouse clicks. The interface resembles PowerPoint but instead of creating slides, ACORNS is used to create lessons. Presently, the program supports Flash Card Lessons, Hear and Click Lessons, Hear and Respond Lessons, Magnet Game Lessons, Missing Word Lessons, Moving Pictures Lessons, Multiple Choice Lessons, Pictionary Lessons, Picture and Sound Lessons, Questions and Answers Lessons, Story Book Lessons. and Translate Lessons,
+
+* Flash Card lessons contains three piles of cards. The students job is to correctly identify the audio and eventually through correct answers move all the cards to the rightmost pile.
+* Hear and Click lessons annotate stories with pictures. Students click on the correct picture as the story plays back.
+* Hear Respond lessons display a story with words missing. The student fills in the blanks and facilitates comprehension and spelling learning.
+* Magnet Game lessons displays words of a sentence or phrase about the display. The student drags magnets holding adjacent words together, and ACORNS joins the words together into a larger magnet. When the entire sentence or phrase is completed, the student can hear the corresponding audio. This lesson supports sub-word morphology so the student can become familiar with word endings and changes as phrases are combined
+* Missing Word lessons plays an audio in either the gloss or indigenous language. It also displays the sentence with a random word missing. The student's job is to type in the missing word. If correct the next sentence is displayed pertaining to the same category (like travel, activities, shopping, etc.). When completing a category, the student can move to the next.
+* Moving Pictures lessons displays four pictures at a time that move about the frame. Students click to hear attached audio. Periodically, the pictures change.
+* Multiple Choice lessons attach multiple recordings to a series of pictures. You hear a recording and select the correct picture. This works much like commercial products that our country uses to train diplomats.
+* Pictionary lessons display a dictionary in picture form. Clicking on a picture will display the associated text and playback an appropriate audio.
+* Picture Sound lessons attach recordings to places on a picture. Clicking on parts of the picture enables you to hear the correct word or phrase.
+* Questions and Answers lessons pose questions to the student, who replies with an answer. If the answer is correct, the student hears a positive feedback.
+* Story Book lessons play a story and display a picture that relates. Students listen along as the translation words are highlighted. Many other types of lessons are in our plans.
+* Translate lessons plays an audio in either the gloss or indigenous language. It also displays the sentence with the words scrambled. The student's job is to use touches or mouse clicks to construct the correct sentence and ignore spurious words that also display. If correct the next sentence is displayed pertaining to the same category (like travel, activities, shopping, etc.). When completing a category, the student can move to the next. This lesson supports sub-word morphology so the student can become familiar with word endings and changes as phrases are combined.
+* 
+Language instructors can use ACORNS to easily create and then exectute these lessons. Student can also create language lessons as part of class projects. ACORNS can also generate web pages that execute with browsers on the popular desktop, laptop, tablet, and phone devices. It is possible to create an on-line library of language lessons. ACORNS supports indigenous unicode fonts and specialized ttf fonts that remap the Keyboard to native language needs.
+
+To access more information, please refer the [acorns linguistics](https://acornslinguistics.com/) website. This has been a long term development project involving both undergraduate and graduate students.
