@@ -1,4 +1,4 @@
-# ACORNS Overview
+# ACORNS
 
 The purpose of this application is to support language revitalization efforts of Native American tribes. Hence, its name [AC]quisition [O]f [R]estored [N]ative [S]peech. The software conforms to best practice criteria for working with linguistic data, in that it supports industry standard export and import facilities.
 
