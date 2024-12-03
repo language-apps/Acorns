@@ -1,6 +1,6 @@
 # ACORNS Overview
 
-The purpose of this package is to support language revitalization efforts of Native American tribes. Hence, its name [AC]quisition [O]f [R]estored [N]ative [S]peech. The software conforms to best practice criteria for working with linguistic data, in that it supports industry standard export and import facilities.
+The purpose of this application is to support language revitalization efforts of Native American tribes. Hence, its name [AC]quisition [O]f [R]estored [N]ative [S]peech. The software conforms to best practice criteria for working with linguistic data, in that it supports industry standard export and import facilities.
 
 The ACORNS program allows language instructors and students to easily prepare and execute files containing language lessons. The software is intuitive and requires minimal technical training. Each file contains a series of lessons that link together through use of mouse clicks. The interface resembles PowerPoint but instead of creating slides, ACORNS is used to create lessons. Presently, the program supports Flash Card Lessons, Hear and Click Lessons, Hear and Respond Lessons, Magnet Game Lessons, Missing Word Lessons, Moving Pictures Lessons, Multiple Choice Lessons, Pictionary Lessons, Picture and Sound Lessons, Questions and Answers Lessons, Story Book Lessons. and Translate Lessons,
 
