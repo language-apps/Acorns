@@ -10,7 +10,6 @@
 	<classpathentry kind="lib" path="Acorns_lib/AudioVisualFonts.jar" sourcepath="Acorns_lib/AudioVisualFontsSrc.jar"/>
 	<classpathentry kind="lib" path="Acorns_lib/jhall.jar"/>
 	<classpathentry kind="lib" path="Acorns_lib/Lessons.jar" sourcepath="Acorns_lib/LessonsSrc.jar"/>
-	<classpathentry kind="lib" path="Acorns_lib/woff.jar"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/Acorns"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
