@@ -10,6 +10,7 @@ package acornsapplication;
 
 import java.io.*;
 import org.acorns.*;
+import org.acorns.audio.SoundDefaults;
 import org.acorns.language.*;
 
 public class FileSave extends MenuOption
@@ -38,6 +39,11 @@ public class FileSave extends MenuOption
            String path      = properties[FileObject.PATH];
            String name      = properties[FileObject.NAME];
            String fileName  = path + separator + name;
+
+           if (!SoundDefaults.isValidForSandbox(path))
+           {
+          	    return LanguageText.getMessage("acornsApplication", 161);
+           }
 
            active.saveFile(path, name);
            return LanguageText.getMessage("acornsApplication", 88, fileName);

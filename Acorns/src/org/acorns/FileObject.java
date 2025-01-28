@@ -21,7 +21,7 @@ import org.acorns.language.*;
 public abstract class FileObject implements Serializable
 {  
    protected static final int     INITIAL_INDEX_SIZE = 8;
-   private   static final String  VERSION = "11.01";
+   private   static final String  VERSION = "11.02";
    private   static final String  PLUGIN_VERSION = "V9";
       
    // lnx file format indicator.

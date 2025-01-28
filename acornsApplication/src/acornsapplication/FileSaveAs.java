@@ -12,6 +12,7 @@ import java.awt.Frame;
 import java.io.*;
 import javax.swing.*;
 import org.acorns.*;
+import org.acorns.audio.SoundDefaults;
 import org.acorns.lesson.*;
 import org.acorns.lib.*;
 import org.acorns.language.*;
@@ -50,6 +51,11 @@ public class FileSaveAs extends MenuOption
 	                file     = new File(fullName);
 	            }
 	            
+		        if (!SoundDefaults.isValidForSandbox(fullName))
+		        {
+		            return LanguageText.getMessage("acornsApplication", 161);
+		        }
+
 		        // Verify that the file is not already open.
 			    FileObject fileObject = Files.findOpenFile(fullName);
 			    if (fileObject!=null && fileObject != active) 

@@ -31,7 +31,7 @@ public class JavaAwtDesktop {
 	        		return;
 	           }
 	        	
-	  	      if (SoundDefaults.resetBookmarkFolder())
+	  	      if (SoundDefaults.setBookmarkFolder())
 		      {
 		  	      String data = SoundDefaults.getDataFolder();
 		  	      AppEnv.resetPaths(data);
