@@ -52,8 +52,7 @@ public class FileSaveAs extends MenuOption
 	            }
 	            
 		        if (!SoundDefaults.isValidForSandbox(fullName))
-		        {
-		            return LanguageText.getMessage("acornsApplication", 161);
+		        {  return LanguageText.getMessage("acornsApplication", 161);
 		        }
 
 		        // Verify that the file is not already open.

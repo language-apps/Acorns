@@ -41,8 +41,7 @@ public class FileSave extends MenuOption
            String fileName  = path + separator + name;
 
            if (!SoundDefaults.isValidForSandbox(path))
-           {
-          	    return LanguageText.getMessage("acornsApplication", 161);
+           {   return LanguageText.getMessage("acornsApplication", 161);
            }
 
            active.saveFile(path, name);

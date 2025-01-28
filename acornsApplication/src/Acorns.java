@@ -46,8 +46,7 @@ public class Acorns
 			Environment.getHelpSet();
 			boolean resetPaths = SoundDefaults.setBookmarkFolder();
 		    if (resetPaths)
-		    {
-		    	  String data = SoundDefaults.getDataFolder();
+		    {     String data = SoundDefaults.getDataFolder();
 		    	  AppEnv.resetPaths(data);
 		    }
 		}
