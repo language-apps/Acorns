@@ -53,7 +53,7 @@ public class FileOpen extends MenuOption
      }
      catch (IOException iox)	
      {  String message = iox.getMessage();
-        if (message.length()>0) return message;
+        if (message!= null && message.length()>0) return message;
         return LanguageText.getMessage("acornsApplication", 12);
      }
      catch (InvalidFileTypeException exception)
